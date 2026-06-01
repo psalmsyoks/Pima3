@@ -1,0 +1,16 @@
+Preprocessing,Model,Accuracy,Precision,Recall,F1-Score
+Standard Scaler,AdaBoost,0.7597,0.6809,0.5926,0.6337
+Standard Scaler,Random Forest,0.7532,0.6818,0.5556,0.6122
+Standard Scaler,Gradient Boosting,0.7338,0.6383,0.5556,0.5941
+MinMax Scaler,AdaBoost,0.7597,0.6809,0.5926,0.6337
+MinMax Scaler,Random Forest,0.7532,0.6818,0.5556,0.6122
+MinMax Scaler,Gradient Boosting,0.7403,0.6522,0.5556,0.6
+Robust Scaler,AdaBoost,0.7597,0.6809,0.5926,0.6337
+Robust Scaler,Random Forest,0.7597,0.6889,0.5741,0.6263
+Robust Scaler,Gradient Boosting,0.7403,0.6522,0.5556,0.6
+MaxAbs Scaler,AdaBoost,0.7597,0.6809,0.5926,0.6337
+MaxAbs Scaler,Random Forest,0.7532,0.6818,0.5556,0.6122
+MaxAbs Scaler,Gradient Boosting,0.7403,0.6522,0.5556,0.6
+Log Transformation,AdaBoost,0.7597,0.6809,0.5926,0.6337
+Log Transformation,Random Forest,0.7597,0.6889,0.5741,0.6263
+Log Transformation,Gradient Boosting,0.7338,0.6383,0.5556,0.5941

@@ -1,0 +1,57 @@
+{
+  "Logistic Regression": {
+    "train_accuracy": 0.7704,
+    "test_accuracy": 0.7468,
+    "model_path": "logistic_regression_model.pkl"
+  },
+  "Decision Tree": {
+    "train_accuracy": 1.0,
+    "test_accuracy": 0.7468,
+    "model_path": "decision_tree_model.pkl"
+  },
+  "Random Forest": {
+    "train_accuracy": 1.0,
+    "test_accuracy": 0.7208,
+    "model_path": "random_forest_model.pkl"
+  },
+  "Gradient Boosting": {
+    "train_accuracy": 0.9381,
+    "test_accuracy": 0.7403,
+    "model_path": "gradient_boosting_model.pkl"
+  },
+  "Support Vector Machine": {
+    "train_accuracy": 0.7687,
+    "test_accuracy": 0.7662,
+    "model_path": "support_vector_machine_model.pkl"
+  },
+  "K-Nearest Neighbors": {
+    "train_accuracy": 0.798,
+    "test_accuracy": 0.6623,
+    "model_path": "k-nearest_neighbors_model.pkl"
+  },
+  "Naive Bayes": {
+    "train_accuracy": 0.7524,
+    "test_accuracy": 0.7662,
+    "model_path": "naive_bayes_model.pkl"
+  },
+  "Neural Network": {
+    "train_accuracy": 0.7101,
+    "test_accuracy": 0.7013,
+    "model_path": "neural_network_model.pkl"
+  },
+  "AdaBoost": {
+    "train_accuracy": 0.8029,
+    "test_accuracy": 0.7792,
+    "model_path": "adaboost_model.pkl"
+  },
+  "XGBoost": {
+    "train_accuracy": 1.0,
+    "test_accuracy": 0.7208,
+    "model_path": "xgboost_model.pkl"
+  },
+  "Extra Trees": {
+    "train_accuracy": 1.0,
+    "test_accuracy": 0.7403,
+    "model_path": "extra_trees_model.pkl"
+  }
+}

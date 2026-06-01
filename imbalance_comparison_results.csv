@@ -1,0 +1,4 @@
+Model,Original_Accuracy,Original_Precision,Original_Recall,Original_F1,SMOTE_Accuracy,SMOTE_Precision,SMOTE_Recall,SMOTE_F1,ROS_Accuracy,ROS_Precision,ROS_Recall,ROS_F1
+Logistic Regression,0.7143,0.6087,0.5185,0.5600,0.7403,0.6129,0.7037,0.6552,0.7338,0.6032,0.7037,0.6496
+Random Forest,0.7597,0.6809,0.5926,0.6337,0.7338,0.6000,0.7222,0.6555,0.7338,0.6140,0.6481,0.6306
+AdaBoost,0.7922,0.7200,0.6667,0.6923,0.7532,0.6379,0.6852,0.6607,0.7273,0.5938,0.7037,0.6441

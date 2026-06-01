@@ -1,0 +1,6 @@
+Model,No Balancing,RandomOverSampler,SMOTE
+AdaBoost,0.6337,0.6379,0.6721
+Gradient Boosting,0.5941,0.6486,0.614
+K-Nearest Neighbors,0.6346,0.6333,0.6179
+Logistic Regression,0.5455,0.6496,0.6207
+Random Forest,0.6122,0.6545,0.6667

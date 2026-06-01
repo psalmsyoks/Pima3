@@ -1,0 +1,4 @@
+Model,Log Transformation,MaxAbs Scaler,MinMax Scaler,Robust Scaler,Standard Scaler
+AdaBoost,0.6337,0.6337,0.6337,0.6337,0.6337
+Gradient Boosting,0.5941,0.6,0.6,0.6,0.5941
+Random Forest,0.6263,0.6122,0.6122,0.6263,0.6122
